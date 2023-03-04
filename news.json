@@ -1,0 +1,59 @@
+{
+    "messages": {
+        "example_message": {
+            "title": "message title",
+            "message": "message body, can use react-markdown syntax",
+            "link": "link to url opened when clicking the news card (optional)",
+            "img": {
+                "ref": "premade images in the ui assets folder",
+                "colour": "red",
+                "url": "use this for custom images that are not in the news folder"
+            }
+        },
+        "test": {
+            "title": "Test Alert",
+            "message": "This is a test message",
+            "img": {
+                "ref": "arena",
+                "colour": "var(--arena-colour)"
+            }
+        },
+        "3.0_beta": {
+            "title": "ARENA 3.0 WEEKEND PLAYTEST",
+            "message": "Experience the new 3.0 update until Monday.  \nJoin our discord <u>discord.gg/fivemarena</u>",
+            "link": "https://discord.gg/fivemarena",
+            "img": {
+                "ref": "arena",
+                "colour": "var(--arena-colour)"
+            }
+        },
+        "discord": {
+            "title": "Join our Discord",
+            "message": "Join @ **<u>discord.gg/fivemarena</u>**",
+            "link": "https://discord.gg/fivemarena",
+            "img": {
+                "ref": "discord",
+                "colour": "var(--discord-colour)"
+            }
+        },
+        "koth_ad": {
+            "title": "KING OF THE HILL",
+            "message": "Try out the **new** King of the Hill gamemode.",
+            "img": {
+                "ref": "koth_blue",
+                "colour": "var(--discord-colour)"
+            }
+        },
+        "aimtraining_ad": {
+            "title": "AIM TRAINING",
+            "message": "Try out the new **Aim Training** gamemodes\nVehicles, Gridshot, Tracking and Shooting Range",
+            "img": {
+                "ref": "aimtraining_blue",
+                "colour": "var(--arena-colour)"
+            }
+        }
+    },
+    "active": [
+        "3.0_beta", "aimtraining_ad"
+    ]
+}
