@@ -51,9 +51,18 @@
                 "ref": "aimtraining_blue",
                 "colour": "var(--arena-colour)"
             }
+        },
+        "hopouts_ad": {
+            "title": "HOPOUTS",
+            "message": "Try out the new **Hopouts** gamemode\nFirst to 75, 3 teams of 20, rotating maps!",
+            "img": {
+                "url": "https://cdn.discordapp.com/attachments/952307018797043752/1091009396332580904/hopouts.jpg",
+                "colour": "var(--arena-colour)"
+
+            }
         }
     },
     "active": [
-        "3.0_beta", "aimtraining_ad"
+        "discord", "hopouts_ad"
     ]
 }
