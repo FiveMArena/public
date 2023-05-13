@@ -54,7 +54,7 @@
         },
         "hopouts_ad": {
             "title": "HOPOUTS",
-            "message": "Try out the new **Hopouts** gamemode\nFirst to 75, 3 teams of 20, rotating maps!",
+            "message": "Try out the new **Hopouts** gamemode\n3 teams of 20, **gang peds**, rotating maps!",
             "img": {
                 "url": "https://cdn.discordapp.com/attachments/952307018797043752/1091009396332580904/hopouts.jpg",
                 "colour": "var(--arena-colour)"
