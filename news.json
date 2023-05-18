@@ -60,9 +60,17 @@
                 "colour": "var(--arena-colour)"
 
             }
+        },
+        "voip_disabled": {
+            "title": "VOIP DISABLED",
+            "message": "We are investigating an issue with VOIP causing server timeouts. During this time we have disabled VOIP, more updates soon.",
+            "img": {
+                "url": "https://cdn.discordapp.com/attachments/952307018797043752/1108834599049629856/voip.jpg",
+                "colour": "red"
+            }
         }
     },
     "active": [
-        "discord"
+        "voip_disabled"
     ]
 }
