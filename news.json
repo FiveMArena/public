@@ -70,7 +70,5 @@
             }
         }
     },
-    "active": [
-        "voip_disabled"
-    ]
+    "active": []
 }
