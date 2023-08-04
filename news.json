@@ -68,7 +68,26 @@
                 "url": "https://cdn.discordapp.com/attachments/952307018797043752/1108834599049629856/voip.jpg",
                 "colour": "red"
             }
+        },
+        "3.0_release": {
+          "title": "Arena 3.0 Release",
+          "message": "Welcome to Arena 3.0!",
+          "link": "https://discord.gg/fivemarena",
+          "img": {
+            "ref": "arena",
+            "colour": "var(--arena-colour)"
+          }
+        },
+        "gungame_100wins": {
+          "title": "Military Shovel",
+          "message": "The first 5 players to reach 100 Gun Game wins will unlock the legendary **Military Shovel** skin",
+          "link": "https://discord.gg/fivemarena",
+          "img": {
+            "url": "",
+            "colour": "var(--arena-colour)"
+          }
         }
+        
     },
-    "active": []
+    "active": ["3.0_release", "gungame_100wins"]
 }
