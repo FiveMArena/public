@@ -92,8 +92,8 @@
             "message": "Check out Arena's store at https://arenastore.tebex.io/! From custom ranks to skins for your guns in game the store has a ton of stuff to enhance a players experience.",
             "link": "https://arenastore.tebex.io/",
             "img": {
-                "ref": "arena",
-                "colour": "var(--arena-colour)"
+                "url": "https://r2.fivemanage.com/1fAdwiiMXUDsojNu5me60/nHH9JP3.png",
+                "colour": "black"
             }
         }
         
