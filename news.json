@@ -95,8 +95,17 @@
                 "url": "https://r2.fivemanage.com/1fAdwiiMXUDsojNu5me60/nHH9JP3.png",
                 "colour": "black"
             }
+        },
+        "s1_trailer": {
+            "title": "SEASON 1",
+            "message": "Trailer coming soon...",
+            "link": "https://discord.gg/fivemarena",
+            "img": {
+                "url": "https://r2.fivemanage.com/1fAdwiiMXUDsojNu5me60/nHH9JP3.jpg",
+                "colour": "black"
+            }
         }
         
     },
-    "active": ["store"]
+    "active": ["s1_trailer"]
 }
