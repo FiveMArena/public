@@ -104,8 +104,16 @@
                 "url": "https://r2.fivemanage.com/1fAdwiiMXUDsojNu5me60/AxeXR2S.png",
                 "colour": "black"
             }
+        },
+        "s2_trailer": {
+            "title": "SEASON 2",
+            "message": "Tuesday.",
+            "link": "https://www.youtube.com/watch?v=OgEfAT_Y60Y",
+            "img": {
+                "url": "https://r2.fivemanage.com/3xaJkkqrznYN8YqQOT3RN/images/thumb2.png",
+                "colour": "black"
+            }
         }
-        
     },
-    "active": []
+    "active": ["s2_trailer"]
 }
